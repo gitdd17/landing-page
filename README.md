@@ -72,3 +72,4 @@ Practical knowledge of GitHub workflow and version control
 Part of Web Development Internship – Task 1
 
 Thanks to mentors and online resources that guided the project
+
