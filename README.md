@@ -1,3 +1,4 @@
+Elevate Labs Task-1
 🌐 Responsive Landing Page
 
 A clean and responsive landing page built with HTML5, CSS3, and Vanilla JavaScript, created as part of the Web Development Internship – Task 1.
@@ -72,4 +73,5 @@ Practical knowledge of GitHub workflow and version control
 Part of Web Development Internship – Task 1
 
 Thanks to mentors and online resources that guided the project
+
 
